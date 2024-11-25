@@ -3,7 +3,7 @@
 
 AlgorithmPython
 
--   By Jesse Hedden, Software Engineer
+-   By Shadrach Audu Kadah, Software Engineer
 
 Requirements
 ------------
